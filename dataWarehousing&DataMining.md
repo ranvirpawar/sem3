@@ -1,5 +1,3 @@
-# Data Warehousing and Data Mining Exam Topics
-
 ## 1. Data Warehouse Fundamentals
 
 ### 1.1 Introduction to Data Warehouse, OLTP Systems
